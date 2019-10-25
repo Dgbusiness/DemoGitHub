@@ -3,3 +3,4 @@
 I'm just having fun with github
 
 This is madness
+This is the example branch
